@@ -1,5 +1,6 @@
 import hub
 import torch
+import tensorflow_hub as hub
 
 
 def main():
